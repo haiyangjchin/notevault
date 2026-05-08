@@ -1,7 +1,7 @@
 相关的术语：
-AI agent、AI Tool、LLM、Function Calling、MCP(server、client)、RAG、Token、Tokenizer
-Prompt User prompt/System prompt SillyTavern
-Prompt Engineering
+AI agent、AI Tool、LLM、Function Calling、MCP(server、client)、RAG
+Token、Tokenizer（编码：切分与映射、解码：映射；实现算法：Unigram如Google、BPE如OpenAI和Anthropic）
+Prompt User prompt/System prompt SillyTavern、Prompt Engineering
 Zero-shot/Few-shot/Chain-of-Thought(CoT)思维链（引导方式帮助AI回答问题）
 Context、Context Window、Context Engineering
 
