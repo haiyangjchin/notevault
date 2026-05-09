@@ -25,7 +25,7 @@ ReAct运行流程：用户--Agent主程序--模型--工具（函数）
 Plan-And-Execute运行流程：用户--Agent主程序--Plan模型--Re-Plan模型--执行Agent
 
 Agent Skill-说明文档
-Reference（会消耗Token）、Script（不消耗Token）
+Reference（会消耗Token、被读取）、Script（不消耗Token、被执行）
 
 MCP-模型上下文协议
 MCP Host-支持MCP的软件，如Claude Desktop、Cursor、Cline、Cherry Studio
