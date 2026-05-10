@@ -1,3 +1,4 @@
+claude --dangerously-skip-permissions
 shift+tab 切换模式（? for shortcuts默认模式、accept edits on自动模式、plan mode on规划模式）
 ! 切换为终端
 /effort 切换思考强度
