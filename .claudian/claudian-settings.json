@@ -3,7 +3,7 @@
   "permissionMode": "yolo",
   "model": "opus",
   "thinkingBudget": "off",
-  "effortLevel": "high",
+  "effortLevel": "medium",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "",
@@ -81,7 +81,7 @@
     "claude": "opus"
   },
   "savedProviderEffort": {
-    "claude": "high"
+    "claude": "medium"
   },
   "savedProviderServiceTier": {},
   "savedProviderThinkingBudget": {},
@@ -93,6 +93,7 @@
   "tabBarPosition": "input",
   "enableAutoScroll": true,
   "deferMathRenderingDuringStreaming": true,
+  "expandFileEditsByDefault": false,
   "chatViewPlacement": "right-sidebar",
   "hiddenProviderCommands": {}
 }
