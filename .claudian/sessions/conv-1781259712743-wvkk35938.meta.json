@@ -1,0 +1,23 @@
+{
+  "id": "conv-1781259712743-wvkk35938",
+  "providerId": "claude",
+  "title": "RNN",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1781259712743,
+  "updatedAt": 1781259760125,
+  "lastResponseAt": 1781259760125,
+  "sessionId": "e4db97cd-1713-4495-bbcc-9f5ecec0aff3",
+  "providerState": {
+    "providerSessionId": "e4db97cd-1713-4495-bbcc-9f5ecec0aff3"
+  },
+  "currentNote": "00-Inbox/README.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 887,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 31936,
+    "contextWindow": 200000,
+    "contextTokens": 32823,
+    "percentage": 16
+  }
+}
